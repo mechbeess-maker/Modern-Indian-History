@@ -84,6 +84,20 @@
 					"value": "VGNeyeQfc0P5",
 					"isInheritable": false,
 					"position": 100
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "F4zRGul1JuXS",
+					"isInheritable": false,
+					"position": 110
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "balPGIEjrCY2",
+					"isInheritable": false,
+					"position": 120
 				}
 			],
 			"format": "html",
@@ -318,14 +332,99 @@
 					"dataFileName": "Struggle Continues !!.html",
 					"attachments": [
 						{
-							"attachmentId": "bniKIOBqXOak",
+							"attachmentId": "60s1lbVGxHeO",
 							"title": "image.png",
 							"role": "image",
 							"mime": "image/jpg",
 							"position": 10,
 							"dataFileName": "Struggle Continues !!_imag.png"
+						},
+						{
+							"attachmentId": "bniKIOBqXOak",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_Struggle Continues !!_imag.png"
+						},
+						{
+							"attachmentId": "CedyBqe7ZnJh",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_Struggle Continues !!_imag.png"
 						}
 					]
+				},
+				{
+					"isClone": false,
+					"noteId": "F4zRGul1JuXS",
+					"notePath": [
+						"D3K9i8iewL7K",
+						"F4zRGul1JuXS"
+					],
+					"title": "Towards end...",
+					"notePosition": 90,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Towards end.html",
+					"attachments": [
+						{
+							"attachmentId": "aS2IubLdkTpM",
+							"title": "image (2).jpg",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Towards end_image (2).jpg"
+						},
+						{
+							"attachmentId": "hlGwgqeTHsXy",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Towards end_image.png"
+						},
+						{
+							"attachmentId": "P3p7tAHk7dl1",
+							"title": "image.jpg",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Towards end_image.jpg"
+						},
+						{
+							"attachmentId": "WSjdTAqFhdg2",
+							"title": "image.jpg",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_Towards end_image.jpg"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "balPGIEjrCY2",
+					"notePath": [
+						"D3K9i8iewL7K",
+						"balPGIEjrCY2"
+					],
+					"title": "The End & Extras...",
+					"notePosition": 100,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "The End & Extras.html",
+					"attachments": []
 				}
 			]
 		},
