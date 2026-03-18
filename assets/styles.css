@@ -900,3 +900,7 @@ samp {
     Consolas,
     monospace;
 }
+/* Custom Eye-Care Background for Light Mode */
+body, .page-content, .trilium-content {
+    background-color: #FDF6E3 !important;
+}
